@@ -1,4 +1,14 @@
-### Hi there 👋
+# 👋 I'm Abdeali Jaroli 🐱‍🏍 
+
+-  Aspriring Full Stack Developer 🐱‍💻
+
+-  UI/UX Designer (pretty much) 😎
+
+-  And a forever Cybersecurity enthusiast 🐱
+
+<br> 
+
+👀 ![](https://komarev.com/ghpvc/?username=abdealijaroli&color=ff69b4)
 
 <!--
 **abdealijaroli/abdealijaroli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
