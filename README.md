@@ -2,7 +2,7 @@
 
 -  Aspriring Full Stack Developer 🐱‍💻
 
--  UI/UX Designer (pretty much) 😎
+-  UI/UX Designer 😎
 
 -  And a forever Cybersecurity enthusiast 🐱‍👤
 
