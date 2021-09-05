@@ -4,7 +4,7 @@
 
 -  UI/UX Designer 😎
 
--  And a forever Cybersecurity enthusiast 🐱‍👤
+-  Tech enthusiast 🐱‍👤
 
 <br> 
 
