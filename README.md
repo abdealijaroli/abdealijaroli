@@ -1,6 +1,6 @@
 # 👋 I'm Abdeali Jaroli 🐱‍🏍 
 
--  Full Stack Developer 🐱‍💻
+-  Full-Stack Developer 🐱‍💻
 
 -  UI/UX Designer 😎
 
