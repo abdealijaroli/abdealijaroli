@@ -1,10 +1,10 @@
-# 👋 I'm Abdeali Jaroli 🐱‍🏍 
+# 👋 I'm Abdeali Jaroli 
 
--  Full-Stack Developer 🐱‍💻
+-  Full-Stack Developer 💻
 
 -  UI/UX Designer 😎
 
--  Tech enthusiast 🐱‍👤
+-  Tech enthusiast 🔭
 
 <br> 
 
