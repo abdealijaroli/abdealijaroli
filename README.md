@@ -1,10 +1,10 @@
-###👋 Hi there 
+##👋 Hi there 
 
 <p align="center">
-  <img src="assets/banner.png" alt="Banner">
+  <img src="assets/banner.png" alt="Banner" width="100">
 </p>
 
-## 📈
+## Stats 📈
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abdealijaroli&show_icons=true&theme=tokyonight&border_radius=15&hide_border=true&show_owner=true" alt="GitHub Stats">
 </p>
