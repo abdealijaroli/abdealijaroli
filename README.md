@@ -18,7 +18,8 @@
 </p>
 
 ## 🧑‍💻 Currently working on
-- [x] Golang
+- [x] DSA
+- [ ] Golang
 - [ ] AWS
 - [ ] Docker
 - [ ] Svelte
