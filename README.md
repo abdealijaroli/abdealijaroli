@@ -1,21 +1,20 @@
-# 👋 hi, i am Abdeali! (ab-day-ali) 
-no one gets it right the first time btw :D
+# 👋 Hi, I am Abdeali! (ab-day-ali)
 
-## 👨‍🎨 me
-  - full-time learner, hobbyist programmer, design perfectionist, and world-a-better-place maker (in progress).
-    - CS grad from VIT Vellore
+## 👨‍🎨 Me
+  - full-time learner, hobbyist programmer, and world-a-better-place maker (in progress)
     - currently building and securing tech @ [GSK](https://www.gsk.com/en-gb/)
-    - building side projects with love, wip - [Jaro](https://jaroli.me/)
-    - upgrading my site, [jaro.li](https://jaro.li/)
+    - building side projects with love, wip - [godfs](https://jaroli.me/](https://github.com/abdealijaroli/godfs))
+    - crafting my site, [jaro.li](https://jaro.li/)
     - getting really good at backend systems, one day at a time
-    - got a knack for building things that are both functional and beautiful
-    - "i will persist until i succeed"
+    - part-time bug bounty hunter
+    - hardware & manufacturing buff
+    - "he's got a knack for building things that are both functional and beautiful."
 
-## 🎯 twenty twenty four
+## 🎯 Goals
 - a product that solves a real problem
-- open source contribution(s?)
-- backend engineering at scale
-    - golang, rust, system design, security, and cloud
+- more open source contributions
+- engineering at scale
+    - systems, security, and cloud
  
 
 
